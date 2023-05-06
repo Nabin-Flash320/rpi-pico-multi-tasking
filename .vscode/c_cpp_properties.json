@@ -1,0 +1,16 @@
+
+
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${PICO_SDK_PATH}/**",
+                "${PICO_EXAMPLES_PATH}/**",
+                "${PICO_EXTRAS_PATH}/**",
+                "${PICO_PLAYGROUND_PATH}/**"
+            ]
+        }
+    ],
+    "version": 4
+}
